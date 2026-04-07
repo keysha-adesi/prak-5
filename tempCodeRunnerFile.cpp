@@ -1,1 +1,1 @@
-struct detailAlamat
+struct Orang
