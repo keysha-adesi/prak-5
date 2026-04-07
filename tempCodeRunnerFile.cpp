@@ -1,1 +1,1 @@
-menampilkan data dengan perulangan 
+struct detailAlamat
