@@ -1,1 +1,1 @@
-struct Orang
+string nama
