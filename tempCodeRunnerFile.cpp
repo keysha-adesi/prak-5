@@ -1,1 +1,1 @@
-Tampil Data Array Menggunakan For
+menampilkan data dengan perulangan 
