@@ -1,1 +1,1 @@
-Mengisi array
+ Mengisi data dengan perintah satu persatu
