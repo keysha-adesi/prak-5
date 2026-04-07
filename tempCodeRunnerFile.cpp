@@ -1,1 +1,1 @@
- Mengisi data dengan perintah satu persatu
+Tampil Data Array Menggunakan For
