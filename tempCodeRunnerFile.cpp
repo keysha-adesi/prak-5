@@ -1,1 +1,1 @@
-string nama
+mhs[i].alamat.desa
