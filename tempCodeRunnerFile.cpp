@@ -1,1 +1,1 @@
-Deklarasi tanpa inisialisasi
+Mengisi array
