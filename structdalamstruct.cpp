@@ -9,9 +9,9 @@ struct detailAlamat
 
 struct Orang
 {
-    string nama;
+ string nama;
     detailAlamat alamat;
-    int umur;
+    int umur;   
 };
 
 int main()
